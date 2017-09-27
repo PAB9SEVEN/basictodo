@@ -1,0 +1,40 @@
+#butt{
+    margin-top:9px;
+    
+}
+#compresult{
+    margin-top:9px;
+    margin-bottom: :5px;
+    font-family: monospace;
+    font-size:20px;
+}
+
+#userresult{
+    margin-top:2px;
+    margin-bottom: :5px;
+    font-family: monospace;
+    font-size:20px;
+}
+#finalresult{
+    margin-top:5px;
+    margin-bottom: :5px;
+    font-family: monospace;
+    font-size:20px;
+}
+input[type=text]{
+    width:250px;
+    height:50px;
+    margin-top:7px;
+    
+    
+}
+li{
+    font-size:20px;
+    text-decoration: none;
+    
+}
+.tg{
+    text-decoration: line-through;
+    font-size:15px;
+    
+}
